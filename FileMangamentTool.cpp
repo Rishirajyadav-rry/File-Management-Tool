@@ -1,6 +1,3 @@
-// FILE MANAGEMENT TOOL
-// Developed for Internship at CodTech
-// Showcases basic file-handling: Read, Write, Append
 
 #include <iostream>
 #include <fstream>
